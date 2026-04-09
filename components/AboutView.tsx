@@ -45,7 +45,7 @@ export const teamMembers = [
     name: "Oluwatosin Ogunfile",
     role: "Chief Technical Officer",
     bio: "Elite system architect specializing in high-uptime distributed systems and enterprise-grade software engineering. Oluwatosin leads the technical vanguard for our global partners.",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=800",
+    image: "https://lh3.googleusercontent.com/d/1jnMs0W7_ULffDp9sQaoehcbKaB_xMWuJ",
     specialties: ["System Architecture", "Software Engineering", "Technical Leadership"],
     location: "Lagos, Nigeria"
   },
@@ -54,7 +54,7 @@ export const teamMembers = [
     name: "Kelvin Inganga",
     role: "Operations Director & Founder, Ubuntu Developer",
     bio: "Strategic operations specialist and founder of Ubuntu Developer. Kelvin bridges the gap between organizational efficiency and community-driven technical growth.",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=800",
+    image: "https://lh3.googleusercontent.com/d/1-iXcqmDqjb8YM8ePXjvQ293P5G4PYe0-",
     specialties: ["Operations Management", "Strategic Growth", "Ecosystem Development"],
     location: "Nairobi, Kenya"
   },
@@ -63,7 +63,7 @@ export const teamMembers = [
     name: "Uwana Bright O.",
     role: "Talent Strategy Lead",
     bio: "Expert in technical vetting and talent protocol development. Uwana ensures our hub remains the most exclusive network of technical experts in the region.",
-    image: "https://images.unsplash.com/photo-1567532939604-b6c5b0adcc2c?auto=format&fit=crop&q=80&w=800",
+    image: "https://lh3.googleusercontent.com/d/1TqPVkUy7rpOCxlDIHbBs17b-Ji_btTBI",
     specialties: ["Talent Vetting", "Strategic HR", "Workforce Optimization"],
     location: "Lagos, Nigeria"
   },
