@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Copy of TRUSTSKEP GLOBAL | Tech Solutions",
+  "description": "Trustskep Global is a world-class technology solutions company providing innovative project services, talent development, and reliable tech solutions globally.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "theme_color": "#002B5B"
+}
